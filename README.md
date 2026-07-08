@@ -75,7 +75,7 @@ Scout Lane AI currently uses **mock data only**. Routes are illustrative and do 
 
 ## 👩‍💻 Author
 
-Made by **Mahboobe Bežm** (محبوبه بژم)  
+Made by **Mahbube Bejam**  
 Part of the **SOUR LEMON** product suite  
 GitHub: [@mahbejam](https://github.com/mahbejam)
 
