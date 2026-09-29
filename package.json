@@ -1,7 +1,7 @@
 {
   "name": "scout-lane-ai",
   "version": "1.0.0",
-  "description": "Scout Lane AI - a mood-based route recommendation demo",
+  "description": "Scout Lane AI - a real driving route comparison preview",
   "private": true,
   "scripts": {
     "serve": "python -m http.server 4173"
